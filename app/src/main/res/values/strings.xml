@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Real Time Notification</string>
+    <string name="action_about_me">About me</string>
+    <string name="about_me_text">  Created by \nSagar Bhagwat \nsagarbhagwat9@gmail.com \n+917709690807 / +919011848002</string>
+    <string name="dashboard_text">Dashboard</string>
+    <string name="notification_text">Congrats!!! Your destination is only 1 KM far way .</string>
+    <string name="gps_enable_message">GPS is disabled in your device.Please enable it</string>
+    <string name="enable_text">Enable</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="connection_error">Connection Error</string>
+    <string name="check_internet">Please check your internet connection.</string>
+    <string name="current_location">Current Location</string>
+    <string name="destination_location">Destinatation Location</string>
+    <string name="start_button_text">Start</string>
+    <string name="stop_button_text">Stop</string>
+</resources>

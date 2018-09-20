@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "264985774586",
+    "firebase_url": "https://real-time-notifi-1534938388422.firebaseio.com",
+    "project_id": "real-time-notifi-1534938388422",
+    "storage_bucket": "real-time-notifi-1534938388422.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264985774586:android:b3a4a0d6f24f61aa",
+        "android_client_info": {
+          "package_name": "com.demo.realtimenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264985774586-evntl29ejln2q3u92sk4nt91gog213s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqS1ekQd2qMxvPVEaxRKlMDKbNLnyS22E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
